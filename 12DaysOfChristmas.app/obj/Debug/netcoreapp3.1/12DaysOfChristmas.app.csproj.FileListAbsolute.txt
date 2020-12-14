@@ -1,0 +1,13 @@
+C:\Users\zac\source\repos\12DaysOfChristmas\12DaysOfChristmas.app\bin\Debug\netcoreapp3.1\12DaysOfChristmas.app.exe
+C:\Users\zac\source\repos\12DaysOfChristmas\12DaysOfChristmas.app\bin\Debug\netcoreapp3.1\12DaysOfChristmas.app.deps.json
+C:\Users\zac\source\repos\12DaysOfChristmas\12DaysOfChristmas.app\bin\Debug\netcoreapp3.1\12DaysOfChristmas.app.runtimeconfig.json
+C:\Users\zac\source\repos\12DaysOfChristmas\12DaysOfChristmas.app\bin\Debug\netcoreapp3.1\12DaysOfChristmas.app.runtimeconfig.dev.json
+C:\Users\zac\source\repos\12DaysOfChristmas\12DaysOfChristmas.app\bin\Debug\netcoreapp3.1\12DaysOfChristmas.app.dll
+C:\Users\zac\source\repos\12DaysOfChristmas\12DaysOfChristmas.app\bin\Debug\netcoreapp3.1\12DaysOfChristmas.app.pdb
+C:\Users\zac\source\repos\12DaysOfChristmas\12DaysOfChristmas.app\obj\Debug\netcoreapp3.1\12DaysOfChristmas.app.csprojAssemblyReference.cache
+C:\Users\zac\source\repos\12DaysOfChristmas\12DaysOfChristmas.app\obj\Debug\netcoreapp3.1\12DaysOfChristmas.app.AssemblyInfoInputs.cache
+C:\Users\zac\source\repos\12DaysOfChristmas\12DaysOfChristmas.app\obj\Debug\netcoreapp3.1\12DaysOfChristmas.app.AssemblyInfo.cs
+C:\Users\zac\source\repos\12DaysOfChristmas\12DaysOfChristmas.app\obj\Debug\netcoreapp3.1\12DaysOfChristmas.app.csproj.CoreCompileInputs.cache
+C:\Users\zac\source\repos\12DaysOfChristmas\12DaysOfChristmas.app\obj\Debug\netcoreapp3.1\12DaysOfChristmas.app.dll
+C:\Users\zac\source\repos\12DaysOfChristmas\12DaysOfChristmas.app\obj\Debug\netcoreapp3.1\12DaysOfChristmas.app.pdb
+C:\Users\zac\source\repos\12DaysOfChristmas\12DaysOfChristmas.app\obj\Debug\netcoreapp3.1\12DaysOfChristmas.app.genruntimeconfig.cache
