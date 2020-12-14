@@ -1,6 +1,6 @@
 # Christmas Challenge - Code Golf 
 
-Write a program to print out the carol (“The Twelve days of Christmas”)[https://www.christmas-carols.net/carols/twelve-days.html] for each and every one of the twelve days. 
+Write a program to print out the carol ["The Twelve days of Christmas"](https://www.christmas-carols.net/carols/twelve-days.html) for each and every one of the twelve days. 
 
 Your program should print out all twelve days, *in full including accurate punctuation*, please! 
 
